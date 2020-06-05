@@ -158,7 +158,7 @@ class Homepage extends React.Component {
               Facebook
             </HireMe>
           </AboveFold>
-          <Content>
+          {/*<Content>
             <t.H2 primary align="center" bold>
               Titulo
             </t.H2>
@@ -168,7 +168,7 @@ class Homepage extends React.Component {
             <t.H2 primary align="center" bold className="portfolio">
               Produtos
             </t.H2>
-          </Content>
+          </Content>*/}
           <Block>
             <BlockContent>
               <DivWrapper>
@@ -226,7 +226,7 @@ class Homepage extends React.Component {
           </Block>
           
           
-          <Block>
+          {/*<Block>
             <BlockContent>
               <DivWrapper>
                 <t.H2 bold>Outros produtos</t.H2>
@@ -242,7 +242,7 @@ class Homepage extends React.Component {
                 <ItemImage src={BoloPote} alt="Placeholder title" />
               </DivWrapper>
             </BlockContent>
-          </Block>
+          </Block>*/}
           
           
           <WorkWithMe>

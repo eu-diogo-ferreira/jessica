@@ -87,13 +87,14 @@ class AboutMe extends React.Component {
               Jessica Sweets - Doces Gourmet
             </t.H1>
             <t.LargeP align="center" max70>
-            Olá, eu me Chamo Jéssica Mellany.
+            Olá, eu me Chamo Jéssica Mellany e sou a criadora da "Jessica Sweets", a mais incrível doceria de Mogi Guaçu.
             
             </t.LargeP>
             
-            <t.LargeP align="center" max70>
+            {/*<t.LargeP align="center" max70>
             Contar uma breve história sobre a jéssica
-            </t.LargeP>
+            </t.LargeP>*/}
+            
           </AboveFold>
           <Content>
             <Img fluid={data.avatarAbout.childImageSharp.fluid} alt="Name Surname" className="avatar" />
