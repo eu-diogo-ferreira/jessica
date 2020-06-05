@@ -4,6 +4,7 @@ import { lighten, darken } from 'polished';
 import * as t from '../Typography';
 import Colors from '../Colors';
 import LN from '../images/ln.png';
+import WA from '../images/whats.png';
 import Close from '../images/close-popup-grey.png';
 import { media } from '../MediaQueries';
 import Helmet from 'react-helmet';
@@ -98,6 +99,12 @@ class HireMePopup extends React.Component {
             target="_blank"
             href="https://www.facebook.com/Jessica-Sweets-109537127455112">
             <img src={LN} alt="Facebook profile" />
+          </Link>
+          <br />
+          <Link primary bold
+            target="_blank"
+            href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20um%20pedido">
+            <img src={WA} alt="Whatsapp profile" />
           </Link>
         </ContentWrapper>
       </HireMePopupWrapper>

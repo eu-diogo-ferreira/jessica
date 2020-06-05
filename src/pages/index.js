@@ -180,7 +180,7 @@ class Homepage extends React.Component {
                 <t.P>Encomende:</t.P>
                 <LinkButton primary bold className="link" as="a"
                   target="_blank"
-                  href="#">
+                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20um%20pedido">
                   Chamar via Whatsapp
                 </LinkButton>
               </DivWrapper>
@@ -196,7 +196,7 @@ class Homepage extends React.Component {
                 <t.P>Encomende: </t.P>
                 <LinkButton primary bold className="link" as="a"
                   target="_blank"
-                  href="#">
+                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20um%20pedido">
                   Chamar via Whatsapp
                 </LinkButton>
               </DivWrapper>
@@ -218,7 +218,7 @@ class Homepage extends React.Component {
                 <t.P>Encomende: </t.P>
                 <LinkButton primary bold className="link" as="a"
                   target="_blank"
-                  href="#">
+                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20um%20pedido">
                   Chamar via Whatsapp
                 </LinkButton>
               </DivWrapper>
@@ -234,7 +234,7 @@ class Homepage extends React.Component {
                 <t.P>Dolor sit amet</t.P>
                 <LinkButton primary bold className="link" as="a"
                   target="_blank"
-                  href="#">
+                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20um%20pedido">
                   Lorem ipsum
                 </LinkButton>
               </DivWrapper>

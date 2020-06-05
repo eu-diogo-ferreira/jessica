@@ -25,11 +25,11 @@ const Footer = ({ big, medium }) => (
   <FooterWrapper {...big && { big }} {...medium && { medium }}>
     <Content>    
       <Copyright white align="center">
-        Desenvolvido por 
+        
         <Link primary bold
             target="_blank"
-            href="http://diogo-developer.netlify.app">
-              Diogo Ferreira
+            href="http://diogodeveloper.netlify.app">
+              Desenvolvido por Diogo Ferreira
             </Link>
       </Copyright>
     </Content>
