@@ -84,10 +84,10 @@ class AboutMe extends React.Component {
         <Layout theme="white" openContactPopup={this.openContactPopup}>
           <AboveFold>
             <t.H1 green align="center">
-              Jessica Sweets - Doces Gourmet
+              Santos Gourmet
             </t.H1>
             <t.LargeP align="center" max70>
-            Olá, eu me Chamo Jéssica Mellany e sou a criadora da "Jessica Sweets", a mais incrível doceria de Mogi Guaçu.
+            Olá, eu me Chamo Jéssica Mellany e sou a criadora da "Santos Gourmet", a mais incrível doceria de Mogi Guaçu.
             
             </t.LargeP>
             

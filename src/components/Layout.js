@@ -43,7 +43,7 @@ const Layout = ({
             {
               name: 'description',
               content:
-                'Jessica Sweets'
+                'Santos Gourmet'
             },
             { name: 'keywords', content: 'portfolio' }
           ]}

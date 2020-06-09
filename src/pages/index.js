@@ -149,7 +149,7 @@ class Homepage extends React.Component {
           <AboveFold>
             <Img fluid={data.avatarHomepage.childImageSharp.fluid} alt="Name Surname" className="avatar" />
             <t.H1 primary align="center">
-              Jessica Sweets
+              Santos Gourmet
             </t.H1>
             <t.LargeP align="center" max45>
             Os melhores doces da região de Mogi Guaçu
@@ -180,7 +180,7 @@ class Homepage extends React.Component {
                 <t.P>Encomende:</t.P>
                 <LinkButton primary bold className="link" as="a"
                   target="_blank"
-                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20um%20pedido">
+                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20o%20pedido%20de%20um%20Bolo%20de%20Pote">
                   Chamar via Whatsapp
                 </LinkButton>
               </DivWrapper>
@@ -196,7 +196,7 @@ class Homepage extends React.Component {
                 <t.P>Encomende: </t.P>
                 <LinkButton primary bold className="link" as="a"
                   target="_blank"
-                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20um%20pedido">
+                  href="https://api.whatsapp.com/send?phone=5519998569570&text=Ol%C3%A1,%20eu%20gostaria%20de%20fazer%20o%20pedido%20de%20um%20Brigadeiro">
                   Chamar via Whatsapp
                 </LinkButton>
               </DivWrapper>

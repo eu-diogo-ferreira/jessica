@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Jessica Sweets - Produtos'
+    title: 'Santos Gourmet'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -17,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Santos Gourmet',
+        short_name: 'Santos Gourmet',
         start_url: '/',
         background_color: '#f6f1ed',
         theme_color: '#f6f1ed',
